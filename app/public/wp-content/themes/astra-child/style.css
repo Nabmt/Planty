@@ -1,0 +1,87 @@
+/*
+Theme Name: Astra Child
+Theme URI: https://wpastra.com/
+Template: astra
+Author: Brainstorm Force
+Author URI: https://wpastra.com/about/?utm_source=theme_preview&utm_medium=author_link&utm_campaign=astra_theme
+Description: Astra is fast, fully customizable &amp; beautiful WordPress theme suitable for blog, personal portfolio, business website and WooCommerce storefront. It is very lightweight (less than 50KB on frontend) and offers unparalleled speed. Built with SEO in mind, Astra comes with Schema.org code integrated and is Native AMP ready so search engines will love your site. It offers special features and templates so it works perfectly with all page builders like Elementor, Beaver Builder, Visual Composer, SiteOrigin, Divi, etc. Some of the other features: # WooCommerce Ready # Responsive # RTL &amp; Translation Ready # Extendible with premium addons # Regularly updated # Designed, Developed, Maintained &amp; Supported by Brainstorm Force. Looking for a perfect base theme? Look no further. Astra is fast, fully customizable and WooCommerce ready theme that you can use for building any kind of website!
+Tags: custom-menu,custom-logo,entertainment,one-column,two-columns,left-sidebar,e-commerce,right-sidebar,custom-colors,editor-style,featured-images,full-width-template,microformats,post-formats,rtl-language-support,theme-options,threaded-comments,translation-ready,blog
+Version: 4.6.4.1707518445
+Updated: 2024-02-09 22:40:45
+
+*/
+
+.wpforms-submit-container {
+	text-align: center;
+}
+
+.custom-logo {
+	margin-left: 30px;
+}
+
+
+a[href="http://planty.local/commander/"] {
+    color: white !important;
+}
+
+a[href="http://planty.local/nous-rencontrer/"]:hover {
+    font-weight: bold !important;
+    font-size: 1em !important;
+    color: black !important;
+}
+
+#menu-item-519 {
+	background-color: #E0B9B4;
+	margin-right: 0px;
+	margin-left: 30px;
+	padding-right: 0px;
+	width: 170px;
+	padding-left: 25px;
+}
+
+#menu-item-519:hover {
+	background-color: #C02E44;
+}
+
+
+.menu-admin{
+	margin-left: 30px !important;
+	
+}
+
+.site-above-header-wrap {
+	padding: 0px !important;
+}
+
+#ff_5_numeric-field, #ff_5_numeric-field_1, #ff_5_numeric-field_2, #ff_5_numeric-field_3 {
+	width: 30px;
+	height: 45px;
+	padding: 12px;
+	border-radius: 0px;
+	margin-left: 65px;
+}
+
+.ff-el-group {
+	margin-left: 25px;
+}
+
+.ff-btn, ff-btn-submit, ff-btn-md, ff_btn_style, wpf_has_custom_css {
+	height: 55px;
+	}
+
+label[for="ff_5_input_text"],
+label[for="ff_5_input_text_2"],
+label[for="ff_5_email"],
+label[for="ff_5_input_text_4"],
+label[for="ff_5_input_text_3"],
+label[for="ff_5_input_text_1"] {
+    color: white;
+}
+
+
+
+
+
+
+
+

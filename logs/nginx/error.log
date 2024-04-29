@@ -1,0 +1,5 @@
+2024/03/03 00:59:23 [alert] 10244#5672: OpenEvent("ngx_master_7264") failed (2: FormatMessage() error:(15100))
+2024/03/08 02:35:45 [alert] 12600#11700: OpenEvent("ngx_master_14068") failed (2: FormatMessage() error:(15100))
+2024/03/20 18:06:09 [error] 7276#1520: *11425 WSARecv() failed (10054: FormatMessage() error:(15100)) while reading response header from upstream, client: 127.0.0.1, server: , request: "GET /?preview_id=109&preview_nonce=b3563d570d&preview=true HTTP/1.0", upstream: "fastcgi://127.0.0.1:10009", host: "planty.local", referrer: "http://planty.local/wp-admin/post.php?post=109&action=elementor"
+2024/04/13 23:01:03 [alert] 14944#6852: OpenEvent("ngx_master_7104") failed (2: FormatMessage() error:(15100))
+2024/04/26 03:25:19 [alert] 6172#15156: OpenEvent("ngx_master_12396") failed (2: FormatMessage() error:(15100))
